@@ -1,3 +1,5 @@
+form { width: 400px; }
+
 label{
     display: inline-block;
     //float: left;
@@ -6,7 +8,13 @@ label{
     text-align: left;
 }
 input {
-  display: inline-block;
-  text-align: absmiddle;
+  //display: inline-block;
+  //float: right; 
+  //text-align: right;
   //float: center;
+  float: left; width: 250px; }
+.clear { clear: both; height: 0; line-height: 0; }
+.floatright { float: right; }
 }
+
+
