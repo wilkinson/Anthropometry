@@ -7,5 +7,6 @@ label{
 }
 input {
   display: inline-block;
-  float: center;
+  text-align: absmiddle;
+  //float: center;
 }
