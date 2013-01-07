@@ -1,9 +1,8 @@
-
 label{
     display: inline-block;
-    float: left;
-    clear: left;
-    width: 250px;
+    //float: left;
+    //clear: left;
+    //width: 250px;
     text-align: right;
 }
 input {
